@@ -11,3 +11,5 @@ I developed an interactive virtual makeup application using OpenCV in Python, wi
 - Masking to ensure the tint is applied only within the lip area
 - Side-by-side comparison of the before and after results
 - Ability to save the final output as an image
+video reference (how the project is working):
+https://drive.google.com/file/d/12WttZ_9WJc0z-qySwJYBY_8q--rBaNlz/view?usp=drivesdk
